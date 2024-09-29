@@ -1,0 +1,14 @@
+{
+  "name": "integracioncontinua",
+  "version": "1.0.0",
+  "description": "prueba de integracion continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "imer alejandro",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
